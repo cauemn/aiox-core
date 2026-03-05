@@ -104,6 +104,7 @@ Use o agente DevOps: `@devops` e então `*setup-mcp-docker`
 ## Outros Guias
 
 - [Guia de Referência de Agentes](../agent-reference-guide.md)
+- [Cheat Sheet de Comandos dos Agentes](./agent-commands-cheat-sheet.md)
 - [Guia de Workflow Git](../git-workflow-guide.md)
 - [Primeiros Passos](../getting-started.md)
 - [Solução de Problemas de Instalação](./installation-troubleshooting.md)
